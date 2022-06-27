@@ -1,0 +1,16 @@
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.csproj.AssemblyReference.cache
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.AssemblyInfoInputs.cache
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.AssemblyInfo.cs
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.csproj.CoreCompileInputs.cache
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.exe
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.deps.json
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.runtimeconfig.json
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.runtimeconfig.dev.json
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.dll
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\ref\lab1cs.dll
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\bin\Debug\net5.0\lab1cs.pdb
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.dll
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\ref\lab1cs.dll
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.pdb
+D:\Лабы\МатПрога\1 лаба\lab1cs\lab1cs\obj\Debug\net5.0\lab1cs.genruntimeconfig.cache

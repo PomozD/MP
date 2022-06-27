@@ -1,0 +1,16 @@
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.exe
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.deps.json
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.runtimeconfig.json
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.runtimeconfig.dev.json
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.dll
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\ref\test1lab.dll
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\bin\Debug\net5.0\test1lab.pdb
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.csproj.AssemblyReference.cache
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.AssemblyInfoInputs.cache
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.AssemblyInfo.cs
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.csproj.CoreCompileInputs.cache
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.dll
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\ref\test1lab.dll
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.pdb
+D:\Лабы\МатПрога\test1lab\test1lab\test1lab\obj\Debug\net5.0\test1lab.genruntimeconfig.cache

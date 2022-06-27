@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Levenshtein.cpp
+D:\Лабы\МатПрога\MP_4_semester\lab4\Levenshtein\Levenshtein\Levenshtein.cpp(1,1): fatal error C1041: невозможно открыть базу данных программы D:\Лабы\МатПрога\MP_4_semester\lab4\Levenshtein\Levenshtein\Debug\vc142.idb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  main.cpp
+D:\Лабы\МатПрога\MP_4_semester\lab4\Levenshtein\Levenshtein\main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
